@@ -1,0 +1,21 @@
+{
+  "2.jpg44593": {
+    "filename": "2.jpg",
+    "size": 44593,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 213,
+          "y": 5,
+          "width": 97,
+          "height": 125
+        },
+        "region_attributes": {
+          "type": "Pikachu"
+        }
+      }
+    ],
+    "file_attributes": {}
+  }
+}
